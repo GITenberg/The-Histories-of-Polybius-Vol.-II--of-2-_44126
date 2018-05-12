@@ -7,7 +7,7 @@ contributor:
     - Hultsch, F. (Friedrich Otto)
     - Hultsch, Friedrich Otto
     birthdate: 1833
-    deathdate: &id001 1906
+    deathdate: 1906
     gutenberg_agent_id: '42604'
     url: http://www.gutenberg.org/2009/agents/42604
   translator:
@@ -16,7 +16,7 @@ contributor:
     - Shuckburgh, Evelyn Shirley
     - Shuckburgh, E. S. (Evelyn Shirley)
     birthdate: 1843
-    deathdate: *id001
+    deathdate: 1906
     gutenberg_agent_id: '1033'
     url: http://www.gutenberg.org/2009/agents/1033
 covers:
@@ -31,6 +31,8 @@ creator:
     gutenberg_agent_id: '42603'
     url: http://www.gutenberg.org/2009/agents/42603
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44126#The-Histories-of-Polybius-Vol.-II--of-2-
 gutenberg_issued: '2013-11-08'
 gutenberg_type: Text
 identifiers:
