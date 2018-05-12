@@ -1,0 +1,46 @@
+_repo: The-Histories-of-Polybius-Vol.-II--of-2-_44126
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Hultsch, Fridericus (Friedrich Otto)
+    aliases:
+    - Hultsch, F. (Friedrich Otto)
+    - Hultsch, Friedrich Otto
+    birthdate: 1833
+    deathdate: &id001 1906
+    gutenberg_agent_id: '42604'
+    url: http://www.gutenberg.org/2009/agents/42604
+  translator:
+    agent_name: Shuckburgh, Evelyn S. (Evelyn Shirley)
+    aliases:
+    - Shuckburgh, Evelyn Shirley
+    - Shuckburgh, E. S. (Evelyn Shirley)
+    birthdate: 1843
+    deathdate: *id001
+    gutenberg_agent_id: '1033'
+    url: http://www.gutenberg.org/2009/agents/1033
+covers:
+- cover_type: archival
+  image_path: 44126-h/images/cover2.jpg
+creator:
+  author:
+    agent_name: Polybius
+    aliases:
+    - Πολύβιος
+    - Polybios
+    gutenberg_agent_id: '42603'
+    url: http://www.gutenberg.org/2009/agents/42603
+description: ''
+gutenberg_issued: '2013-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'History, Ancient'
+title: The Histories of Polybius, Vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/44126
